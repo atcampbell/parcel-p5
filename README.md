@@ -1,4 +1,4 @@
-p5js and Parcel project scaffolding.
+Parcel and p5js (in instance mode) project template.
 
 Run with:
 
